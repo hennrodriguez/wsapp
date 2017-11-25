@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Blank PhoneGap App
 
 ## Usage
@@ -14,3 +15,7 @@ In your browser, open the file:
 
 # webserviceapp
 APP con webservice para base de datos
+=======
+# wsapp
+Web Service APP
+>>>>>>> origin/master
