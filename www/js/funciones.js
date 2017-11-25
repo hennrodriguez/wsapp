@@ -13,8 +13,6 @@ $("#miformulario").submit(function(evento){
 });
 
 //$("#mostrar").click(function(evento){
-	evento.preventDefault();
-	var cadena=$(this).serializeArray();
 	$.ajax({
 		url:"http://especialistasenlaweb.com/hromuesta.php",
 	}).done(function(respuesta){
