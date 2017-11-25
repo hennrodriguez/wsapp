@@ -14,7 +14,7 @@ $("#miformulario").submit(function(evento){
 
 //$("#mostrar").click(function(evento){
 	$.ajax({
-		url:"http://especialistasenlaweb.com/hromuesta.php",
+		url:"http://especialistasenlaweb.com/hromuestra.php",
 	}).done(function(respuesta){
 		$("#misdatos").html(respuesta);
 	});
