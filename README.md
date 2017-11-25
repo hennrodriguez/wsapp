@@ -1,21 +1,8 @@
-<<<<<<< HEAD
-# A Blank PhoneGap App
+# CiviMmap
 
-## Usage
+## Enterate de los que pasa a tu alrededor.
 
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
+Civimap Team
 
 # webserviceapp
 APP con webservice para base de datos
-=======
-# wsapp
-Web Service APP
->>>>>>> origin/master
