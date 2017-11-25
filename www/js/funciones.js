@@ -5,7 +5,7 @@ $("#miformulario").submit(function(evento){
 	// console.info(cadena);
 	$.ajax({
 		url:"http://especialistasenlaweb.com/hrodatos.php",
-		tyoe: "post",
+		type: "post",
 		data: cadena
 	}).done(function(respuesta){
 		$(".mensaje").html(respuesta);
