@@ -11,3 +11,13 @@ $("#miformulario").submit(function(evento){
 		$(".mensaje").html(respuesta);
 	});
 });
+
+//$("#mostrar").click(function(evento){
+	evento.preventDefault();
+	var cadena=$(this).serializeArray();
+	$.ajax({
+		url:"http://especialistasenlaweb.com/hromuesta.php",
+	}).done(function(respuesta){
+		$("#misdatos").html(respuesta);
+	});
+//});
