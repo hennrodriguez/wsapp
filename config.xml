@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>CiviMmap</name>
+    <name>WS APP</name>
     <description>
-        Enterate de los que pasa a tu alrededor.
+        Web Service APP.
     </description>
-    <author email="support@civimap.co" href="https://civimapo.co">
-        Civimap Team
+    <author email="hennk14@gmail.com" href="https://hennrodriguez.github.io">
+        Henn Rodríguez
     </author>
     <content src="index.html" />
     <access origin="http://especialistasenlaweb.com" />

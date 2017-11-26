@@ -1,8 +1,5 @@
-# CiviMmap Prueba
+# WS APP
 
-## Enterate de los que pasa a tu alrededor.
+## Web Service APP
 
-Civimap Team
-
-# webserviceapp test
 APP con webservice para base de datos
